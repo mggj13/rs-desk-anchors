@@ -1,0 +1,24 @@
+{
+ "asof": "2026-09-25",
+ "logger": "prospective13",
+ "file": "2026-09-25.json",
+ "log_sha256": "d2c0682bf479d9b3a702bf8d5b17eb6b7010aca9c31a9cab105c981dce22c268",
+ "code_commit": {
+  "recorded_in_file": "9883008",
+  "logger_checkout_head": "5c68aa2",
+  "logger_checkout_dirty": false
+ },
+ "config_sha256": "89e2c38ed07920856694d732ceb9c9fc981cdca55c1362719c3f6e93e22f362b",
+ "config_files": {
+  "sellrules/prospective13/run-log.sh": "78b74bda95a6973f1089d358bbb5b45a192e5eea5371b7d8539450515f88bae5",
+  "sellrules/prospective13/com.rsdesk.prospective13.log.plist": "33ac7713103739c95d7b19b19fd9fe2598fc9a1112e5147292ccebace7c50b38",
+  "sellrules/bin/prospective-log.mjs": "7d74eb329bb1fd81efc815cf9756e53d0e1c9f39738db0a6276d2068458bb8c1"
+ },
+ "model": {
+  "tag": "rsdesk-v8.4",
+  "code_sha256": "de56b2f9bf37c4b68c2e4e2f3f3c9d36bf3742c490a2def1583311d4fffef927",
+  "registry_sha256": "ab20e3de5b9979858552a3ffe90802d60c5fafcae450ee2ce4e2271aeace2a17"
+ },
+ "data_snapshot_id": "8ccce46b5c8913712ab80e3dc26b1fb4c26c565387746b84a1d225c0947abb85",
+ "previous_sha256": null
+}
