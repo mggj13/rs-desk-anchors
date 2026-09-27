@@ -1,0 +1,1 @@
+2026-09-27T02:50:04Z RESTORED ots/2026-09-26.digest.b.pool.opentimestamps.org.ots from f3fef2e (270 bytes). Commit df89208 had overwritten it with a text hex dump of the a.pool receipt, caused by an operator command (xxd with two file arguments) on 2026-09-26. The anchors.log lines and manifests were not affected.
