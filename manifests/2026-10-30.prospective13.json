@@ -1,0 +1,29 @@
+{
+ "asof": "2026-10-30",
+ "logger": "prospective13",
+ "file": "2026-10-30.json",
+ "log_sha256": "d0e043ec35f43bf7d0e5878962b7955c90913b3cbeb21223fb765326e4b0b0af",
+ "runtime": {
+  "node_binary": "/usr/local/bin/node",
+  "node_version": "v24.18.1"
+ },
+ "lockfile_sha256": "80d855d787079d72d7c8e0a93d6cffaa3320066d514d63bfc82f89fd4251877f",
+ "code_commit": {
+  "recorded_in_file": "113db43",
+  "logger_checkout_head": "113db43",
+  "logger_checkout_dirty": false
+ },
+ "config_sha256": "89e2c38ed07920856694d732ceb9c9fc981cdca55c1362719c3f6e93e22f362b",
+ "config_files": {
+  "sellrules/prospective13/run-log.sh": "78b74bda95a6973f1089d358bbb5b45a192e5eea5371b7d8539450515f88bae5",
+  "sellrules/prospective13/com.rsdesk.prospective13.log.plist": "33ac7713103739c95d7b19b19fd9fe2598fc9a1112e5147292ccebace7c50b38",
+  "sellrules/bin/prospective-log.mjs": "7d74eb329bb1fd81efc815cf9756e53d0e1c9f39738db0a6276d2068458bb8c1"
+ },
+ "model": {
+  "tag": "rsdesk-v8.5",
+  "code_sha256": "37c9f13fcb9df910ee63e6204fa19eaeebb36a9f04a60d40efde2459b7660d71",
+  "registry_sha256": "7551c232a18e4d0631755d9e56ecebefca590acde4f0ea0795528baf2f1d5520"
+ },
+ "data_snapshot_id": "74e802472e71657d3c5b7c0d222b51c5d66c8e0590a380cb1516c212a789e7e4",
+ "previous_sha256": "0897f360f925c83dc734a1dcd0199cb325fa3b141044ef6aea475a6762f2ae52"
+}
